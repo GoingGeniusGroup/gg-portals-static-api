@@ -1,0 +1,1 @@
+# gg-portals-static-api
